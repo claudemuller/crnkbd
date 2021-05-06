@@ -51,7 +51,7 @@
       "KC_NO",
       "MO(2)",
       "MT(MOD_LALT,KC_SPC)",
-      "MT(MOD_RGUI,KC_ENT)"
+      "MT(MOD_LGUI | MOD_RGUI,KC_ENT)"
     ],
     [
       "KC_GRV",
@@ -84,7 +84,7 @@
       "KC_8",
       "KC_7",
       "KC_6",
-      "KC_NO",
+      "KC_EQL",
       "KC_NO",
       "KC_NO",
       "KC_NO",
