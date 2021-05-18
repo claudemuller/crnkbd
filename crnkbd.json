@@ -100,7 +100,11 @@
       "KC_NO",
       "KC_NO",
       "MO(3)",
+<<<<<<< HEAD
       "KC_RALT",
+=======
+      "KC_SPC",
+>>>>>>> be2638d1de24407934eb5dbbf5dd379edf1faed9
       "MO(3)"
     ],
     [
